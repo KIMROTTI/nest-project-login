@@ -1,0 +1,28 @@
+body {
+  background-color: antiquewhite;
+}
+.container {
+  text-align: center;
+  background-color: antiquewhite;
+  height: 100%;
+  width: 100%;
+}
+#id {
+  background-color: white;
+  border: 1px solid slategrey;
+  border-radius: 4px;
+  margin: 12px;
+  width: 300px;
+  height: 32px;
+  padding: 5px;
+}
+#pw {
+  background-color: white;
+  border: 1px solid slategrey;
+  border-radius: 4px;
+
+  margin: 12px;
+  width: 300px;
+  height: 32px;
+  padding: 5px;
+}
